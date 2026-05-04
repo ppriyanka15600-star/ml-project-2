@@ -81,4 +81,3 @@ python train.py
 👩‍💻 Author
 Priyanka Periyasamy
 
-Priyanka Periyasamy 
